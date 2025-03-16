@@ -1,0 +1,1 @@
+# IA_Azure_CopilotAndOpenAI
